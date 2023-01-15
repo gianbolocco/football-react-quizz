@@ -15,7 +15,7 @@ npm start
 
 _Deployed in vercel_
 
-* [FootBall Quizz](https://react-ecommerce-coderhouse.vercel.app/)
+* [FootBall Quizz](https://football-react-quizz.vercel.app/)
 
 ## Built with 🛠️
 
